@@ -4,7 +4,7 @@
 - Navigate to routes/index.js
 - Update var nestApi = new NestApi('Username', 'Password'); with your information
 - Run npm start from the working directory
-- Navigate to localhost:3000 and the current temp will be output in your console
+- Navigate to localhost:3000/api/nest/getTemperature and the current temp will be output in your console
 
 # Roadmap
 Create Node.js solution for managing and interacting with sensor data from a web interface. Our first sensor interaction is with a Nest thermostat.
